@@ -14,9 +14,9 @@ This project allows users to upload an image of a road (CCTV snapshot), detects 
 - 🔒 CORS enabled and ready for local or production deployment
 
 # 🚀 How to Run
-
-1. Install dependencies : **pip install -r requirements.txt**
-2. Start the Backend : **uvicorn main:app --reload**
-3. Open the Frontend
+1. Clone the repository
+2. Install dependencies : **pip install -r requirements.txt**
+3. Start the backend : **uvicorn main:app --reload**
+4. Open the frontend
 
 ![Screenshot 2025-06-30 151449](https://github.com/user-attachments/assets/ccd2cfb6-e567-409a-ac8c-a6acbc34dc03)
